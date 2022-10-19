@@ -1,0 +1,15 @@
+{
+  "name": "weatherappnodeproject",
+  "version": "1.0.0",
+  "description": "a simple and real weather application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritesh Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0",
+    "require": "^2.4.20"
+  }
+}
